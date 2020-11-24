@@ -1,2 +1,2 @@
-# SecureScanUI-IOS
-Here are all files for the UI of the IOS version of SecureScan
+# SecureScanDesign
+Design work for Secure Web, IOS, Android
